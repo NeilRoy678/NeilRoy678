@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NeilRoy678
+- 👋 Hi, I’m NeilRoy
 - 👀 I’m interested in Machine learning ,Neural Networks
 - 🌱 I’m currently learning Genrative Adversial Networks
 - 💞️ I’m looking to collaborate on Projects Involving the use of Machine learning 
