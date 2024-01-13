@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Genrative Adversial Networks
 - 💞️ I’m looking to collaborate on Projects Involving the use of Machine learning 
 - 📫 How to reach me 
-- Email: royneil885@gmail.com
+- Email: neilroy2507@gmail.com
 
 <!---
 NeilRoy678/NeilRoy678 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
