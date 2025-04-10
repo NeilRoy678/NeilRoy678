@@ -1,6 +1,6 @@
 - 👋 Hi, I’m NeilRoy
 - 👀 I’m interested in Neural Networks,Computer Vision,Robotics
-- 🌱 I’m currently learning Genrative Adversial Networks
+- 🌱 I’m currently learning about Large Language Models
 - 💞️ I’m looking to collaborate on Projects Involving the use of Machine learning 
 - 📫 How to reach me 
 - Email: neilroy2507@gmail.com
