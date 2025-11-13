@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Hey%20👋%2C%20I'm%20Neil%20Roy-💻-brightgreen?style=for-the-badge&animation=fade" />
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Hey 👋, I'm Neil Roy" />
 </p>
 <p align="center">
   <b>Master’s Student in Data Science @ Texas A&M University</b><br>
