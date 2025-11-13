@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 M.S. in Data Science (CSE) at Texas A&M University, GPA: 3.85/4  
+- 🎓 M.S. in Data Science (CSE) at Texas A&M University. 
 - 💻 Research in **multimodal pipelines** combining images (EfficientNet), text (BERT), OCR, and Figma design data  
 - 🤖 Experienced in deploying **LLM-powered assistants** and **ML pipelines** for real-time inference and UI reasoning  
 - 📊 Data analyst intern at PayPal — built **LLM-powered documentation tools** and large-scale risk analytics  
