@@ -51,8 +51,8 @@
 ---
 
 | Paper | Year | Link |
-|-------|---------|------|------|
-| Improving the Reliability of LLMs: Combining CoT, RAG, Self-Consistency, and Self-Verification| 2025 | [arXiv](https://arxiv.org/abs/2505.09031) |
+|-------|------|------|
+| Improving the Reliability of LLMs: Combining CoT, RAG, Self-Consistency, and Self-Verification| 2025 |[![arXiv](https://img.shields.io/badge/arXiv-2505.09031-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.09031) |
 
 ### 📬 Connect With Me
 <p align="center">
