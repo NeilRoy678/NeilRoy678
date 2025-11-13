@@ -2,17 +2,17 @@
 
 <p align="center">
   <b>Master’s Student in Data Science @ Texas A&M University</b><br>
-  Passionate about <b>Machine Learning</b>, <b>Computer Vision</b>, and <b>AI Alignment</b>  
+  Passionate about <b>Machine Learning</b>, <b>Computer Vision</b>, <b>AI Alignment</b>, and <b>Figma-based UI/UX Design</b>
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🎓 Currently pursuing **M.S. in Data Science** at **Texas A&M University**  
-- 🧠 Exploring **Bias Mitigation in LLMs** and **Multimodal Concept Learning**  
-- 🤖 Led a 20-member team for the **Intelligent Ground Vehicle Competition (IGVC)** — built ROS-based self-driving simulations  
-- 🧩 3x **Published Researcher** in Deep Learning & Clustering  
-- 🧭 Curious about how data & AI shape autonomous systems and healthcare  
+- 🎓 M.S. in Data Science (CSE) at Texas A&M University, GPA: 3.85/4  
+- 💻 Research in **multimodal pipelines** combining images (EfficientNet), text (BERT), OCR, and Figma design data  
+- 🤖 Experienced in deploying **LLM-powered assistants** and **ML pipelines** for real-time inference and UI reasoning  
+- 📊 Data analyst intern at PayPal — built **LLM-powered documentation tools** and large-scale risk analytics  
+- 🏆 Published 4 research papers and secured **World Rank 2** in CanSat Competition  
 
 ---
 
@@ -24,44 +24,37 @@
 ---
 
 ### 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neilroy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilroy&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NeilRoy678&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeilRoy678&layout=donut&theme=tokyonight&hide_border=true&count_private=true" height="165" />
 </p>
 
 ---
 
 ### 🔥 Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neilroy&theme=tokyonight&hide_border=true&count_private=true" alt="Neil Roy's streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeilRoy678&theme=tokyonight&hide_border=true&count_private=true" alt="Neil Roy's streak" />
 </p>
-
-
 
 ---
 
 ### 🧩 Featured Projects
 | Project | Description | Tech |
-|----------|--------------|------|
-| 🚗 **IGVC Autonomous Vehicle Simulation** | Lane + Pothole Detection using YOLO + PID Controller (ROS, Gazebo). | `Python`, `ROS`, `OpenCV`, `YOLO` |
-| 🧠 **Brain Tumor Segmentation** | Published deep learning model for MRI-based tumor detection. | `PyTorch`, `UNet` |
-| 📸 **CNN Preprocessing Benchmark** | Compared preprocessing pipelines for CNN accuracy. | `TensorFlow`, `Matplotlib` |
-| 💬 **LLM Bias Reduction Research** | Contrastive learning + alignment regularization for fairer AI. | `LLMs`, `Contrastive Learning` |
-
----
-
-### 🪶 Quote I Live By
-> *“Curiosity is the compass that guides intelligence.”*  
+|----------|-------------|------|
+| 🖌️ **Figma Assistant for UI/UX** | ETL pipeline transforming unstructured Figma design data into structured JSON. Deployed with Flask and Ollama-hosted LLM for real-time design suggestions. | `Python`, `Flask`, `LLM`, `Ollama API` |
+| 🤖 **IGVC Autonomous Vehicle** | Autonomous ground vehicle with lane detection, pothole avoidance, and PID-controlled navigation; vision-based obstacle detection reduced costs. | `ROS`, `Python`, `OpenCV`, `YOLO`, `PID` |
+| 🚦 **German Traffic Sign Recognition** | CNN-based classifier for 50k+ images across 40+ traffic sign classes; benchmarked on GTSRB dataset. | `PyTorch`, `TensorFlow`, `OpenCV` |
+| 🧠 **LLM Bias Mitigation & CoT-RAG** | Chain-of-Thought with Retrieval-Augmented Generation and self-consistency decoding; fine-tuned LLaMA models to reduce hallucinations. | `PyTorch`, `LoRA`, `LLMs`, `RAG` |
 
 ---
 
 ### 📬 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/neil-r-b2129a141/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/neil-r-b2129a141" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:neilroy2107@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/NeilRoy678" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-<p align="center">⭐️ From <a href="https://github.com/neilroy">Neil Roy</a></p>
+<p align="center">⭐️ From <a href="https://github.com/NeilRoy678">Neil Roy</a></p>
