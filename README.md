@@ -49,7 +49,9 @@
 | 🧠 **LLM Bias Mitigation & CoT-RAG** | Chain-of-Thought with Retrieval-Augmented Generation and self-consistency decoding; fine-tuned LLaMA models to reduce hallucinations. | `PyTorch`, `LoRA`, `LLMs`, `RAG` |
 
 ---
-[Reducing Bias in Large Language Models](https://arxiv.org/abs/2303.12345)
+
+[![arXiv](https://img.shields.io/badge/arXiv-2303.12345-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2303.12345)
+
 ### 📬 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/neil-r-b2129a141" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
