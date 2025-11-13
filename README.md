@@ -25,8 +25,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeilRoy678&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeilRoy678&layout=donut&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img alt="Neil Roy's GitHub activity graph" src="https://activity-graph.herokuapp.com/graph?username=NeilRoy678&bg_color=0D1117&color=58a6ff&line=ff7b72&point=ff7b72&hide_border=true&area=true" />
 </p>
 
 ---
