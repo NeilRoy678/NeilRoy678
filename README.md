@@ -34,7 +34,7 @@
 
 ### 🔥 Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neilroy&theme=tokyonight&hide_border=true&count_private=true" alt="Neil Roy's streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilroy&layout=donut&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 
