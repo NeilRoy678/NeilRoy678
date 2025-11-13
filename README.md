@@ -1,52 +1,80 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋 I'm Neil Roy</h1>
+
+###
+
+<p align="center">
+  🚀 Data Science & AI Enthusiast | 🧠 Passionate about ML, CV & NLP <br/>
+  🎯 Exploring AI for Autonomous Systems & Healthcare Innovation
+</p>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=py,go,ts,nextjs,tailwind,graphql,aws,nestjs,react,linux,c,cpp" height="50" alt="tech stack" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <a href="https://www.linkedin.com/in/neil-roy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="linkedin logo" />
+  </a>
+  <a href="https://twitter.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="28" alt="twitter logo" />
+  </a>
+  <a href="https://discord.gg" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" height="28" alt="discord logo" />
+  </a>
+  <a href="https://neilroy.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=react&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="28" alt="portfolio logo" />
+  </a>
 </div>
 
-###
+---
+
+### 🧑‍💻 About Me  
+- 🎓 Master’s student at **Texas A&M University** in **Data Science**  
+- 🤖 Researching **bias reduction in LLMs** and **intelligent ground vehicles (IGVC)**  
+- 💡 Building no-code computer vision & agentic object detection tools  
+- 🌱 Currently exploring **multimodal alignment and OOD recommendations**  
+- ⚡ Fun fact: I love reading AI blogs — especially Silvio Savarese’s work at Salesforce  
+
+---
+
+### 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=neilroy1&show_icons=true&theme=dracula&hide_border=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neilroy1&theme=dracula&hide_border=true" height="160" alt="streak graph" />
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilroy1&layout=compact&theme=dracula&hide_border=true" height="160" alt="languages graph" />
+</div>
 
+---
+
+### 🏆 Achievements  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=neilroy1&theme=dracula&no-frame=true&margin-w=8&margin-h=8" alt="trophy graph" />
+</div>
+
+---
+
+### 🎮 Contribution Graph  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neilroy1/neilroy1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neilroy1/neilroy1/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution graph" src="https://raw.githubusercontent.com/neilroy1/neilroy1/output/github-contribution-grid-snake.svg" />
 </picture>
 
-###
+---
+
+### 💬 Quote  
+> “The best way to predict the future is to invent it.” — Alan Kay
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=neilroy1&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views" />
+</p>
