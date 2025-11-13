@@ -24,10 +24,9 @@
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeilRoy678&layout=donut&theme=tokyonight&hide_border=true&count_private=true" height="165" /> </p>
-</p>
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeilRoy678&layout=donut&theme=tokyonight&hide_border=true&count_private=true" height="165" /> </p>
+</div>
 ---
 
 ### 🔥 Contribution Streak
