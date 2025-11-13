@@ -1,7 +1,7 @@
+<br><br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=1E90FF&width=600&lines=Hey+%F0%9F%91%8B,+I'm+Neil+Roy" alt="Typing Effect" />
 </p>
-<p align="center">
   <b>Master’s Student in Data Science @ Texas A&M University</b><br>
   Passionate about <b>Machine Learning</b>, <b>Computer Vision</b>, <b>AI Alignment</b>, and <b>Data Science and Analytics</b>
 </p>
