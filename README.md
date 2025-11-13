@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZrNHZ1ZDZhN2Nnbzk3bHdsOWZwYjBucGZyZjY2anZ0MjJlejFiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c1CLe6VoaMviQz0s6z/giphy.gif" alt="Hey 👋, I'm Neil Roy" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=000000&width=600&lines=Hey+%F0%9F%91%8B,+I'm+Neil+Roy" alt="Typing Effect" />
 </p>
 <p align="center">
   <b>Master’s Student in Data Science @ Texas A&M University</b><br>
