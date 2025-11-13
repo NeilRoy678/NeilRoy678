@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Master’s Student in Data Science @ Texas A&M University</b><br>
-  Passionate about <b>Machine Learning</b>, <b>Computer Vision</b>, <b>AI Alignment</b>, and <b>Figma-based UI/UX Design</b>
+  Passionate about <b>Machine Learning</b>, <b>Computer Vision</b>, <b>AI Alignment</b>, and <b>Data Science and Analytics</b>
 </p>
 
 ---
