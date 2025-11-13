@@ -38,12 +38,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilroy&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
----
 
-### 🏆 Achievements & Badges
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=neilroy&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
 
 ---
 
