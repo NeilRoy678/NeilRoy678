@@ -50,7 +50,9 @@
 
 ---
 
-[![arXiv](https://img.shields.io/badge/arXiv-2303.12345-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2303.12345)
+| Paper | Authors | Year | Link |
+|-------|---------|------|------|
+| Multimodal Concept Learning and Alignment | Neil Roy, et al. | 2025 | [arXiv](https://arxiv.org/abs/2505.09031) |
 
 ### 📬 Connect With Me
 <p align="center">
