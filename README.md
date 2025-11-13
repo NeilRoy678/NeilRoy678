@@ -25,7 +25,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img alt="Neil Roy's GitHub activity graph" src="https://activity-graph.herokuapp.com/graph?username=NeilRoy678&bg_color=0D1117&color=58a6ff&line=ff7b72&point=ff7b72&hide_border=true&area=true" />
+  <img src="https://github.com/NeilRoy678.png?tab=overview&from=2025-01-01&to=2025-12-31" alt="Neil Roy's contributions this year" />
 </p>
 
 ---
