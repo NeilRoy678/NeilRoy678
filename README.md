@@ -24,7 +24,7 @@
 ---
 
 ### 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=NeilRoy678&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeilRoy678&layout=donut&theme=tokyonight&hide_border=true&count_private=true" height="165" /> </p>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeilRoy678&layout=donut&theme=tokyonight&hide_border=true&count_private=true" height="165" /> </p>
 
 ---
 
