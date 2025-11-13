@@ -24,9 +24,7 @@
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github.com/NeilRoy678.png?tab=overview&from=2025-01-01&to=2025-12-31" alt="Neil Roy's contributions this year" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=NeilRoy678&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeilRoy678&layout=donut&theme=tokyonight&hide_border=true&count_private=true" height="165" /> </p>
 
 ---
 
