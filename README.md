@@ -1,5 +1,6 @@
-<h1 align="center">Hey 👋, I'm Neil Roy</h1>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Hey%20👋%2C%20I'm%20Neil%20Roy-💻-brightgreen?style=for-the-badge&animation=fade" />
+</p>
 <p align="center">
   <b>Master’s Student in Data Science @ Texas A&M University</b><br>
   Passionate about <b>Machine Learning</b>, <b>Computer Vision</b>, <b>AI Alignment</b>, and <b>Data Science and Analytics</b>
